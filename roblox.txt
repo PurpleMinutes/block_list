@@ -2,45 +2,17 @@
 # Version: v1 February 13, 2023
 # Description: ...
 
-127.0.0.1 client-telemetry.roblox.com
-127.0.0.1 friends.roblox.com
 127.0.0.1 friends.roblox.com
 127.0.0.1 thumbnails.roblox.com
 127.0.0.1 assetdelivery.roblox.com
-127.0.0.1 assetdelivery.roblox.com
-127.0.0.1 assetdelivery.roblox.com
-127.0.0.1 assetdelivery.roblox.com
 127.0.0.1 locale.roblox.com
 127.0.0.1 voice.roblox.com
-127.0.0.1 accountsettings.roblox.com
-127.0.0.1 gameinternationalization.roblox.com
-127.0.0.1 friends.roblox.com
-127.0.0.1 friends.roblox.com
 127.0.0.1 games.roblox.com
-127.0.0.1 assetgame.roblox.com
-127.0.0.1 games.roblox.com
-127.0.0.1 games.roblox.com
-127.0.0.1 locale.roblox.com
-127.0.0.1 locale.roblox.com
 127.0.0.1 presence.roblox.com
-127.0.0.1 presence.roblox.com
-127.0.0.1 voice.roblox.com
-127.0.0.1 voice.roblox.com
-127.0.0.1 accountsettings.roblox.com
 127.0.0.1 accountsettings.roblox.com
 127.0.0.1 gameinternationalization.roblox.com
-127.0.0.1 gameinternationalization.roblox.com
-127.0.0.1 assetgame.roblox.com
 127.0.0.1 assetgame.roblox.com
 127.0.0.1 ecsv2.roblox.com
 127.0.0.1 client-telemetry.roblox.com
 127.0.0.1 ephemeralcounters.api.roblox.com
 127.0.0.1 gamejoin.roblox.com
-127.0.0.1 gamejoin.roblox.com
-127.0.0.1 gamejoin.roblox.com
-127.0.0.1 gamejoin.roblox.com
-127.0.0.1 economy.roblox.com
-127.0.0.1 economy.roblox.com
-127.0.0.1 economy.roblox.com
-127.0.0.1 roblox.com
-127.0.0.1 www.roblox.com
