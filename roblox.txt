@@ -16,3 +16,8 @@
 127.0.0.1 client-telemetry.roblox.com
 127.0.0.1 ephemeralcounters.api.roblox.com
 127.0.0.1 gamejoin.roblox.com
+127.0.0.1 apis.roblox.com
+127.0.0.1 auth.roblox.com
+127.0.0.1 metrics.roblox.com
+127.0.0.1 rbxcdn.com
+127.0.0.1 roblox.com
