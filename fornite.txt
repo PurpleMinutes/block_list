@@ -1,0 +1,22 @@
+# Title: PurpleMinutes' fortnite block list
+# Version: v1 January 02, 2024
+# Description: ...
+
+127.0.0.1 fortnite.com
+127.0.0.1 fortnitecontent-website-prod07.ol.epicgames.com
+127.0.0.1 fortnitecontent-website-prod.ak.epicgames.com
+127.0.0.1 fortnite-island-screenshots-live-cdn.ol.epicgames.com
+127.0.0.1 fortnite-matchmaking-public-service-live-asia.ol.epicgames.com
+127.0.0.1 fortnite-matchmaking-public-service-live-eu.ol.epicgames.com
+127.0.0.1 fortnite-matchmaking-public-service-live-me.ol.epicgames.com
+127.0.0.1 fortnite-matchmaking-public-service-live-nae.ol.epicgames.com
+127.0.0.1 fortnite-matchmaking-public-service-live-naw.ol.epicgames.com
+127.0.0.1 fortnite-matchmaking-public-service-live-oce.ol.epicgames.com
+127.0.0.1 fortnite-public-service-prod11.ol.epicgames.com
+127.0.0.1 fortnite-public-service-prod.ak.epicgames.com
+127.0.0.1 fortnitewaitingroom-public-service-prod.ol.epicgames.com
+
+127.0.0.1 epicgames.com
+127.0.0.1 account-public-service-prod.ol.epicgames.com
+127.0.0.1 api.epicgames.dev
+127.0.0.1 datarouter.ol.epicgames.com
