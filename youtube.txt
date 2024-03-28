@@ -1,0 +1,13 @@
+# Title: PurpleMinutes' youtube block list
+# Version: v1 March 28, 2024
+# Description: ...
+
+127.0.0.1 youtube.com
+127.0.0.1 youtube.ca
+127.0.0.1 youtube.co.uk
+127.0.0.1 youtube.com.au
+127.0.0.1 youtube.de
+127.0.0.1 youtube.fr
+127.0.0.1 youtube.jp
+127.0.0.1 youtube.in
+127.0.0.1 youtu.be
